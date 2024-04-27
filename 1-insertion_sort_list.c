@@ -23,7 +23,7 @@ void insertion_sort_list(listint_t **list)
 }
 /**
  *swap_node - swap a node for his previous one
- *@node: node
+ *@temp: node
  *@list: node list
  *Return: return a pointer to a node which was enter it
  */
