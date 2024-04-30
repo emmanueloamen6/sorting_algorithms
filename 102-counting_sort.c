@@ -2,7 +2,7 @@
 #include <stdio.h>
 /**
  *_malloc - this is a malloc function
- *@nmemb: number of elemets
+ *@memb: number of elemets
  *@size: bit size of each element
  *Return: pointer to memory assignement
  */
