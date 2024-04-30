@@ -27,4 +27,6 @@ int array_partition(int *array, ssize_t first, ssize_t last, size_t size);
 void qs(int *array, ssize_t first, ssize_t last, int size);
 void quick_sort(int *array, size_t size);
 void shell_sort(int *array, size_t size);
+void *_malloc(unsigned int memb, unsigned int size);
+void counting_sort(int *array, size_t size);
 #endif
